@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="">
-      <change afterPath="R:/01-hola-mundo/src/app/components/body/body.component.html" afterDir="false" />
-      <change afterPath="R:/01-hola-mundo/src/app/components/body/body.component.ts" afterDir="false" />
-      <change afterPath="R:/01-hola-mundo/src/app/components/header/header.component.html" afterDir="false" />
-      <change afterPath="R:/01-hola-mundo/src/app/components/header/header.component.ts" afterDir="false" />
-      <change afterPath="R:/02-spa/src/assets/img/A-64.png" afterDir="false" />
-      <change afterPath="R:/02-spa/src/assets/img/aquaman.png" afterDir="false" />
-      <change afterPath="R:/02-spa/src/assets/img/batman.png" afterDir="false" />
-      <change afterPath="R:/02-spa/src/assets/img/daredevil.png" afterDir="false" />
-      <change afterPath="R:/02-spa/src/assets/img/hulk.png" afterDir="false" />
-      <change afterPath="R:/02-spa/src/assets/img/linterna-verde.png" afterDir="false" />
-      <change afterPath="R:/02-spa/src/assets/img/spiderman.png" afterDir="false" />
-      <change afterPath="R:/02-spa/src/assets/img/wolverine.png" afterDir="false" />
-      <change beforePath="R:/01-hola-mundo/src/app/app.component.html" beforeDir="false" afterPath="R:/01-hola-mundo/src/app/app.component.html" afterDir="false" />
-      <change beforePath="R:/01-hola-mundo/src/app/app.component.ts" beforeDir="false" afterPath="R:/01-hola-mundo/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="R:/01-hola-mundo/src/app/app.module.ts" beforeDir="false" afterPath="R:/01-hola-mundo/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="R:/01-hola-mundo/src/index.html" beforeDir="false" afterPath="R:/01-hola-mundo/src/index.html" afterDir="false" />
-      <change beforePath="R:/01-hola-mundo/src/styles.css" beforeDir="false" afterPath="R:/01-hola-mundo/src/styles.css" afterDir="false" />
-      <change beforePath="R:/01-hola-mundo/tslint.json" beforeDir="false" afterPath="R:/01-hola-mundo/tslint.json" afterDir="false" />
-      <change beforePath="R:/02-spa/angular.json" beforeDir="false" afterPath="R:/02-spa/angular.json" afterDir="false" />
-      <change beforePath="R:/02-spa/package-lock.json" beforeDir="false" afterPath="R:/02-spa/package-lock.json" afterDir="false" />
-      <change beforePath="R:/02-spa/package.json" beforeDir="false" afterPath="R:/02-spa/package.json" afterDir="false" />
-      <change beforePath="R:/02-spa/src/app/app.component.html" beforeDir="false" afterPath="R:/02-spa/src/app/app.component.html" afterDir="false" />
-      <change beforePath="R:/02-spa/src/app/app.module.ts" beforeDir="false" afterPath="R:/02-spa/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="R:/02-spa/src/favicon.ico" beforeDir="false" afterPath="R:/02-spa/src/favicon.ico" afterDir="false" />
-      <change beforePath="R:/02-spa/src/index.html" beforeDir="false" afterPath="R:/02-spa/src/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +33,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="T:\Mis documentos\Angular\02-spa\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="R:\02-spa\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -109,6 +83,7 @@
       <workItem from="1603783644279" duration="48000" />
       <workItem from="1603784328315" duration="3402000" />
       <workItem from="1603802450210" duration="1191000" />
+      <workItem from="1603881617541" duration="704000" />
     </task>
     <servers />
   </component>
