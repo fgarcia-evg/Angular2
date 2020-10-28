@@ -2,10 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="R:" vcs="Git" />
+    <mapping directory="R:/" vcs="Git" />
     <mapping directory="R:/01-hola-mundo" vcs="Git" />
     <mapping directory="R:/02-spa" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/01-hola-mundo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/02-spa" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/spa" vcs="Git" />
+    <mapping directory="R:/spa" vcs="Git" />
   </component>
 </project>
