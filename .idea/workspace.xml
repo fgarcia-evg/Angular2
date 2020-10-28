@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="">
+      <change afterPath="R:/01-hola-mundo/src/app/components/body/body.component.html" afterDir="false" />
+      <change afterPath="R:/01-hola-mundo/src/app/components/body/body.component.ts" afterDir="false" />
+      <change afterPath="R:/01-hola-mundo/src/app/components/header/header.component.html" afterDir="false" />
+      <change afterPath="R:/01-hola-mundo/src/app/components/header/header.component.ts" afterDir="false" />
+      <change afterPath="R:/02-spa/src/assets/img/A-64.png" afterDir="false" />
+      <change afterPath="R:/02-spa/src/assets/img/aquaman.png" afterDir="false" />
+      <change afterPath="R:/02-spa/src/assets/img/batman.png" afterDir="false" />
+      <change afterPath="R:/02-spa/src/assets/img/daredevil.png" afterDir="false" />
+      <change afterPath="R:/02-spa/src/assets/img/hulk.png" afterDir="false" />
+      <change afterPath="R:/02-spa/src/assets/img/linterna-verde.png" afterDir="false" />
+      <change afterPath="R:/02-spa/src/assets/img/spiderman.png" afterDir="false" />
+      <change afterPath="R:/02-spa/src/assets/img/wolverine.png" afterDir="false" />
+      <change beforePath="R:/01-hola-mundo/src/app/app.component.html" beforeDir="false" afterPath="R:/01-hola-mundo/src/app/app.component.html" afterDir="false" />
+      <change beforePath="R:/01-hola-mundo/src/app/app.component.ts" beforeDir="false" afterPath="R:/01-hola-mundo/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="R:/01-hola-mundo/src/app/app.module.ts" beforeDir="false" afterPath="R:/01-hola-mundo/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="R:/01-hola-mundo/src/index.html" beforeDir="false" afterPath="R:/01-hola-mundo/src/index.html" afterDir="false" />
+      <change beforePath="R:/01-hola-mundo/src/styles.css" beforeDir="false" afterPath="R:/01-hola-mundo/src/styles.css" afterDir="false" />
+      <change beforePath="R:/01-hola-mundo/tslint.json" beforeDir="false" afterPath="R:/01-hola-mundo/tslint.json" afterDir="false" />
+      <change beforePath="R:/02-spa/angular.json" beforeDir="false" afterPath="R:/02-spa/angular.json" afterDir="false" />
+      <change beforePath="R:/02-spa/package-lock.json" beforeDir="false" afterPath="R:/02-spa/package-lock.json" afterDir="false" />
+      <change beforePath="R:/02-spa/package.json" beforeDir="false" afterPath="R:/02-spa/package.json" afterDir="false" />
+      <change beforePath="R:/02-spa/src/app/app.component.html" beforeDir="false" afterPath="R:/02-spa/src/app/app.component.html" afterDir="false" />
+      <change beforePath="R:/02-spa/src/app/app.module.ts" beforeDir="false" afterPath="R:/02-spa/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="R:/02-spa/src/favicon.ico" beforeDir="false" afterPath="R:/02-spa/src/favicon.ico" afterDir="false" />
+      <change beforePath="R:/02-spa/src/index.html" beforeDir="false" afterPath="R:/02-spa/src/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="R:/02-spa" />
+  </component>
+  <component name="ProjectId" id="1iuHX0w540hb8QxvtUCB5AWXJrw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="R:/02-spa/src" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="T:\Mis documentos\Angular\02-spa\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="R:\02-spa\src" />
+      <recent name="R:\02-spa\src\assets" />
+      <recent name="R:\01-hola-mundo\src" />
+      <recent name="R:\02-spa\src\app\components\shared" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="T:\Mis documentos\Angular\02-spa\src" />
+      <recent name="R:\01-hola-mundo\src\assets\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="" />
+      <created>1602750592698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602750592698</updated>
+      <workItem from="1602750596536" duration="597000" />
+      <workItem from="1602760476442" duration="13000" />
+      <workItem from="1602760489983" duration="2559000" />
+      <workItem from="1602829493272" duration="598000" />
+      <workItem from="1602841083956" duration="1215000" />
+      <workItem from="1603091658976" duration="2620000" />
+      <workItem from="1603100703208" duration="599000" />
+      <workItem from="1603107819302" duration="15000" />
+      <workItem from="1603107938664" duration="4220000" />
+      <workItem from="1603179339175" duration="3671000" />
+      <workItem from="1603194435555" duration="1412000" />
+      <workItem from="1603354367465" duration="1135000" />
+      <workItem from="1603437373623" duration="632000" />
+      <workItem from="1603448057764" duration="670000" />
+      <workItem from="1603710156442" duration="407000" />
+      <workItem from="1603710693283" duration="705000" />
+      <workItem from="1603712647693" duration="99000" />
+      <workItem from="1603712760235" duration="2114000" />
+      <workItem from="1603717826402" duration="21000" />
+      <workItem from="1603717913313" duration="916000" />
+      <workItem from="1603720384992" duration="86000" />
+      <workItem from="1603783644279" duration="48000" />
+      <workItem from="1603784328315" duration="3402000" />
+      <workItem from="1603802450210" duration="1191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="595" y="328" key="#Notifications" timestamp="1603712789819">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="595" y="328" key="#Notifications/0.0.1680.1010@0.0.1680.1010" timestamp="1603712789819" />
+    <state x="970" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603785836435">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="970" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1603785836435" />
+    <state x="682" y="153" key="SettingsEditor" timestamp="1603720469039">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="682" y="153" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1603720469039" />
+  </component>
+</project>

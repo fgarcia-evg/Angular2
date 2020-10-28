@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="R:/01HolaMundo/node_modules" />
+    <excludedPredefinedLibrary name="R:/02-spa/node_modules" />
+    <excludedPredefinedLibrary name="R:/miApp/node_modules" />
+  </component>
+</project>
