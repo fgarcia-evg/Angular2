@@ -5,6 +5,5 @@
     <mapping directory="R:/" vcs="Git" />
     <mapping directory="R:/01-hola-mundo" vcs="Git" />
     <mapping directory="R:/02-spa" vcs="Git" />
-    <mapping directory="R:/spa" vcs="Git" />
   </component>
 </project>

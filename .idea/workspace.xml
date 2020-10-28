@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="" />
+    <list default="true" id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="">
+      <change beforePath="R:/.idea/vcs.xml" beforeDir="false" afterPath="R:/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="R:/.idea/workspace.xml" beforeDir="false" afterPath="R:/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="R:/02-spa" />
+    <option name="RECENT_GIT_ROOT_PATH" value="R:/" />
   </component>
   <component name="ProjectId" id="1iuHX0w540hb8QxvtUCB5AWXJrw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -84,7 +87,16 @@
       <workItem from="1603784328315" duration="3402000" />
       <workItem from="1603802450210" duration="1191000" />
       <workItem from="1603881617541" duration="880000" />
+      <workItem from="1603882565338" duration="1193000" />
     </task>
+    <task id="LOCAL-00001" summary="Prueba header">
+      <created>1603882640225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603882640225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +115,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="R:/spa" />
+    </ignored-roots>
     <MESSAGE value="Prueba header" />
     <option name="LAST_COMMIT_MESSAGE" value="Prueba header" />
   </component>
@@ -111,13 +126,25 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="595" y="328" key="#Notifications/0.0.1680.1010@0.0.1680.1010" timestamp="1603712789819" />
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603882771132">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1603882771132" />
     <state x="970" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603882358182">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="970" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1603882358182" />
-    <state x="682" y="153" key="SettingsEditor" timestamp="1603720469039">
+    <state x="465" y="73" key="CommitChangelistDialog2" timestamp="1603882639022">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="682" y="153" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1603720469039" />
+    <state x="465" y="73" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1603882639022" />
+    <state x="682" y="153" key="SettingsEditor" timestamp="1603883773145">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="682" y="153" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1603883773145" />
+    <state x="432" y="224" key="Vcs.Push.Dialog.v2" timestamp="1603882752849">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="224" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1603882752849" />
   </component>
 </project>
