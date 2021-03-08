@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="">
+    <list default="true" id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="Prueba header2">
+      <change afterPath="R:/ejercicio1/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="R:/ejercicio1/src/app/app.routing.ts" afterDir="false" />
+      <change afterPath="R:/ejercicio1/src/app/services/ropas.service.ts" afterDir="false" />
       <change beforePath="R:/.idea/workspace.xml" beforeDir="false" afterPath="R:/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spa/src/app/components/heroes/heroes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-spa/src/app/components/heroes/heroes.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spa/src/app/components/heroes/heroes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/02-spa/src/app/components/heroes/heroes.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +16,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="R:/" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://R:/ejercicio1/src/app/app.routing.ts" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1iuHX0w540hb8QxvtUCB5AWXJrw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,29 +34,33 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="Y:/2DAW02/Mis documentos/DWEC/JavaScript" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="R:/" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="T:\Mis documentos\Angular\02-spa\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="R:\01-hola-mundo\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="R:\ejercicio1\src\app" />
+      <recent name="T:\Mis documentos\Angular\02-spa\src" />
+      <recent name="R:\01-hola-mundo\src\assets\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="T:\Mis documentos\Angular\holamundo\src\app" />
       <recent name="R:\02-spa\src\app\servicios" />
       <recent name="R:\02-spa\src\app" />
       <recent name="R:\02-spa\src" />
       <recent name="R:\02-spa\src\assets" />
-      <recent name="R:\01-hola-mundo\src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="T:\Mis documentos\Angular\02-spa\src" />
-      <recent name="R:\01-hola-mundo\src\assets\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -104,6 +113,85 @@
       <workItem from="1604651285978" duration="64000" />
       <workItem from="1604652313386" duration="19000" />
       <workItem from="1604656876825" duration="3011000" />
+      <workItem from="1604910618687" duration="1140000" />
+      <workItem from="1605008838879" duration="4604000" />
+      <workItem from="1605079937566" duration="502000" />
+      <workItem from="1605080454415" duration="2107000" />
+      <workItem from="1605091343585" duration="1080000" />
+      <workItem from="1605096986306" duration="2263000" />
+      <workItem from="1605168688541" duration="45000" />
+      <workItem from="1605172489509" duration="1627000" />
+      <workItem from="1605178675735" duration="45000" />
+      <workItem from="1605257625390" duration="536000" />
+      <workItem from="1605260442721" duration="2342000" />
+      <workItem from="1605524887523" duration="8000" />
+      <workItem from="1605600379227" duration="3988000" />
+      <workItem from="1605615712309" duration="40000" />
+      <workItem from="1605686389967" duration="765000" />
+      <workItem from="1605703052859" duration="1361000" />
+      <workItem from="1605777819578" duration="1324000" />
+      <workItem from="1605788916901" duration="704000" />
+      <workItem from="1605790996495" duration="880000" />
+      <workItem from="1605868845167" duration="2748000" />
+      <workItem from="1606121132370" duration="111000" />
+      <workItem from="1606121357835" duration="37000" />
+      <workItem from="1606121563583" duration="646000" />
+      <workItem from="1606127801208" duration="139000" />
+      <workItem from="1606131636744" duration="2432000" />
+      <workItem from="1606207890098" duration="1626000" />
+      <workItem from="1606211250297" duration="428000" />
+      <workItem from="1606222653845" duration="42000" />
+      <workItem from="1606305466885" duration="1142000" />
+      <workItem from="1606306640426" duration="195000" />
+      <workItem from="1606309823620" duration="124000" />
+      <workItem from="1606387472715" duration="7876000" />
+      <workItem from="1606734166199" duration="36000" />
+      <workItem from="1606737352878" duration="1595000" />
+      <workItem from="1606740718284" duration="2165000" />
+      <workItem from="1606744169379" duration="296000" />
+      <workItem from="1606815567128" duration="615000" />
+      <workItem from="1606991968820" duration="23000" />
+      <workItem from="1606998979732" duration="923000" />
+      <workItem from="1607000296900" duration="13000" />
+      <workItem from="1607080434039" duration="679000" />
+      <workItem from="1607514753466" duration="4714000" />
+      <workItem from="1607604094255" duration="2337000" />
+      <workItem from="1607674935262" duration="51000" />
+      <workItem from="1607933435117" duration="3416000" />
+      <workItem from="1608017093076" duration="3152000" />
+      <workItem from="1608032806549" duration="866000" />
+      <workItem from="1608105480181" duration="593000" />
+      <workItem from="1608119230647" duration="1197000" />
+      <workItem from="1608196681293" duration="600000" />
+      <workItem from="1608209043283" duration="231000" />
+      <workItem from="1608277482625" duration="3923000" />
+      <workItem from="1608284357402" duration="1377000" />
+      <workItem from="1608535312044" duration="1659000" />
+      <workItem from="1608547598113" duration="446000" />
+      <workItem from="1608549337001" duration="1458000" />
+      <workItem from="1608552279189" duration="112000" />
+      <workItem from="1611574740333" duration="1137000" />
+      <workItem from="1611834160146" duration="99000" />
+      <workItem from="1611912635411" duration="124000" />
+      <workItem from="1612771537065" duration="1889000" />
+      <workItem from="1612781328309" duration="1017000" />
+      <workItem from="1612784364312" duration="1434000" />
+      <workItem from="1612786249313" duration="18000" />
+      <workItem from="1612858840379" duration="594000" />
+      <workItem from="1612869324129" duration="184000" />
+      <workItem from="1612962490748" duration="573000" />
+      <workItem from="1613029184773" duration="127000" />
+      <workItem from="1613115635393" duration="1845000" />
+      <workItem from="1613562195706" duration="2803000" />
+      <workItem from="1613646760301" duration="1686000" />
+      <workItem from="1613650992049" duration="58000" />
+      <workItem from="1613653926495" duration="7000" />
+      <workItem from="1614073602548" duration="591000" />
+      <workItem from="1614251353751" duration="620000" />
+      <workItem from="1614256270491" duration="12000" />
+      <workItem from="1614929473663" duration="2182000" />
+      <workItem from="1615199693442" duration="1966000" />
+      <workItem from="1615207312228" duration="288000" />
     </task>
     <task id="LOCAL-00001" summary="Prueba header">
       <created>1603882640225</created>
@@ -135,6 +223,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,33 +248,37 @@
     <option name="LAST_COMMIT_MESSAGE" value="Prueba header2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="595" y="328" key="#Notifications" timestamp="1603712789819">
+    <state x="466" y="183" key="#Inspections" timestamp="1607518693790">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="595" y="328" key="#Notifications/0.0.1680.1010@0.0.1680.1010" timestamp="1603712789819" />
-    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603882771132">
+    <state x="466" y="183" key="#Inspections/0.0.1680.1010@0.0.1680.1010" timestamp="1607518693790" />
+    <state x="595" y="328" key="#Notifications" timestamp="1612859178592">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1603882771132" />
-    <state x="970" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603882358182">
+    <state x="595" y="328" key="#Notifications/0.0.1680.1010@0.0.1680.1010" timestamp="1612859178592" />
+    <state x="970" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606742679916">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="970" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1603882358182" />
-    <state x="465" y="73" key="CommitChangelistDialog2" timestamp="1603883815418">
+    <state x="970" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1606742679916" />
+    <state x="481" y="109" key="CommitChangelistDialog2" timestamp="1615200366466">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="465" y="73" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1603883815418" />
-    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1604652329763">
+    <state x="481" y="109" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1615200366466" />
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1614256281517">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1604652329763" />
-    <state x="682" y="153" key="SettingsEditor" timestamp="1603972915922">
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1614256281517" />
+    <state x="682" y="153" key="SettingsEditor" timestamp="1607517427553">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="682" y="153" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1603972915922" />
-    <state x="432" y="224" key="Vcs.Push.Dialog.v2" timestamp="1603883822093">
+    <state x="682" y="153" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1607517427553" />
+    <state x="657" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615200344361">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="224" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1603883822093" />
+    <state x="657" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1615200344361" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1612859432302">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1612859432302" />
   </component>
 </project>
