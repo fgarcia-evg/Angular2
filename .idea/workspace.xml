@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="Prueba header2">
-      <change afterPath="R:/ejercicio1/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="R:/ejercicio1/src/app/app.routing.ts" afterDir="false" />
-      <change afterPath="R:/ejercicio1/src/app/services/ropas.service.ts" afterDir="false" />
+    <list default="true" id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="">
+      <change afterPath="R:/02-spa-Abraham/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="R:/videoclub/src/assets/img/Casablanca.jpg" afterDir="false" />
+      <change afterPath="R:/videoclub/src/assets/img/Centauros del desierto.jpg" afterDir="false" />
+      <change afterPath="R:/videoclub/src/assets/img/Ciudadano Kane.jpg" afterDir="false" />
+      <change afterPath="R:/videoclub/src/assets/img/Ordet.jpg" afterDir="false" />
+      <change afterPath="R:/videoclub/src/assets/img/Senderos de Gloria.jpg" afterDir="false" />
       <change beforePath="R:/.idea/workspace.xml" beforeDir="false" afterPath="R:/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -39,8 +42,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
     <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="R:/" />
+    <property name="last_opened_file_path" value="R:/videoclub/src/assets/img" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
@@ -51,16 +55,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="R:\videoclub\src\assets\img" />
+      <recent name="R:\videoclub\src\assets" />
+      <recent name="R:\02-spa-Abraham\src\app" />
       <recent name="R:\ejercicio1\src\app" />
       <recent name="T:\Mis documentos\Angular\02-spa\src" />
-      <recent name="R:\01-hola-mundo\src\assets\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="R:\videoclub\src\app\services\peliculas" />
+      <recent name="R:\videoclub\src\app\services" />
+      <recent name="R:\ejercicio1\src\app" />
       <recent name="T:\Mis documentos\Angular\holamundo\src\app" />
       <recent name="R:\02-spa\src\app\servicios" />
-      <recent name="R:\02-spa\src\app" />
-      <recent name="R:\02-spa\src" />
-      <recent name="R:\02-spa\src\assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -191,7 +197,45 @@
       <workItem from="1614256270491" duration="12000" />
       <workItem from="1614929473663" duration="2182000" />
       <workItem from="1615199693442" duration="1966000" />
-      <workItem from="1615207312228" duration="288000" />
+      <workItem from="1615207312228" duration="546000" />
+      <workItem from="1615379287769" duration="638000" />
+      <workItem from="1615462162600" duration="1126000" />
+      <workItem from="1615464063372" duration="2400000" />
+      <workItem from="1615808100346" duration="796000" />
+      <workItem from="1616664531071" duration="73000" />
+      <workItem from="1616665910490" duration="64000" />
+      <workItem from="1616745579706" duration="1530000" />
+      <workItem from="1616755717785" duration="606000" />
+      <workItem from="1616757219710" duration="837000" />
+      <workItem from="1617696525029" duration="984000" />
+      <workItem from="1617702488484" duration="41000" />
+      <workItem from="1617702714435" duration="574000" />
+      <workItem from="1617780949412" duration="1670000" />
+      <workItem from="1617784284773" duration="1188000" />
+      <workItem from="1618221277017" duration="390000" />
+      <workItem from="1618223297021" duration="3556000" />
+      <workItem from="1618302186863" duration="1384000" />
+      <workItem from="1618303603027" duration="592000" />
+      <workItem from="1618307281190" duration="3642000" />
+      <workItem from="1618479817636" duration="2046000" />
+      <workItem from="1618482567431" duration="6089000" />
+      <workItem from="1618561398230" duration="758000" />
+      <workItem from="1618562190170" duration="813000" />
+      <workItem from="1618563026432" duration="591000" />
+      <workItem from="1618565945651" duration="355000" />
+      <workItem from="1618566422056" duration="2282000" />
+      <workItem from="1618818615797" duration="1338000" />
+      <workItem from="1618825109152" duration="555000" />
+      <workItem from="1618825681125" duration="6174000" />
+      <workItem from="1618831929588" duration="1541000" />
+      <workItem from="1618834051358" duration="441000" />
+      <workItem from="1618906479882" duration="630000" />
+      <workItem from="1618987172707" duration="5181000" />
+      <workItem from="1619004903790" duration="636000" />
+      <workItem from="1619075658302" duration="5537000" />
+      <workItem from="1619086367792" duration="365000" />
+      <workItem from="1619091647009" duration="1883000" />
+      <workItem from="1619429887705" duration="733000" />
     </task>
     <task id="LOCAL-00001" summary="Prueba header">
       <created>1603882640225</created>
@@ -207,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603883816480</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Prueba header3">
+      <created>1615207658802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615207658802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,40 +296,21 @@
     </ignored-roots>
     <MESSAGE value="Prueba header" />
     <MESSAGE value="Prueba header2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prueba header2" />
+    <MESSAGE value="Prueba header3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prueba header3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="183" key="#Inspections" timestamp="1607518693790">
+    <state x="709" y="415" key="#TSLint" timestamp="1618563313069">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="466" y="183" key="#Inspections/0.0.1680.1010@0.0.1680.1010" timestamp="1607518693790" />
-    <state x="595" y="328" key="#Notifications" timestamp="1612859178592">
+    <state x="709" y="415" key="#TSLint/0.0.1680.1010@0.0.1680.1010" timestamp="1618563313069" />
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1618826495201">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="595" y="328" key="#Notifications/0.0.1680.1010@0.0.1680.1010" timestamp="1612859178592" />
-    <state x="970" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606742679916">
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1618826495201" />
+    <state x="259" y="225" key="RollbackChangesDialog" timestamp="1618561407182">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="970" y="248" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1606742679916" />
-    <state x="481" y="109" key="CommitChangelistDialog2" timestamp="1615200366466">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="481" y="109" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1615200366466" />
-    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1614256281517">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1614256281517" />
-    <state x="682" y="153" key="SettingsEditor" timestamp="1607517427553">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="682" y="153" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1607517427553" />
-    <state x="657" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615200344361">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="657" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1615200344361" />
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1612859432302">
-      <screen x="0" y="0" width="1680" height="1010" />
-    </state>
-    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1612859432302" />
+    <state x="259" y="225" key="RollbackChangesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1618561407182" />
   </component>
 </project>
