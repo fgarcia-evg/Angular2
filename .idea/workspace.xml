@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="">
-      <change afterPath="R:/01-hola-mundo/src/app/components/Cilindro/Cilindro.html" afterDir="false" />
-      <change afterPath="R:/01-hola-mundo/src/app/components/Cilindro/Cilindro.js" afterDir="false" />
-      <change afterPath="R:/videoclub/src/app/components/pelicula/pelicula.component.css" afterDir="false" />
-      <change afterPath="R:/videoclub/src/app/services/peliculas/peliculas.service.ts" afterDir="false" />
-      <change beforePath="R:/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="R:/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="R:/.idea/workspace.xml" beforeDir="false" afterPath="R:/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="R:/01-hola-mundo/package-lock.json" beforeDir="false" afterPath="R:/01-hola-mundo/package-lock.json" afterDir="false" />
-      <change beforePath="R:/01-hola-mundo/package.json" beforeDir="false" afterPath="R:/01-hola-mundo/package.json" afterDir="false" />
-      <change beforePath="R:/02-spa/src/app/components/heroe/heroe.component.ts" beforeDir="false" afterPath="R:/02-spa/src/app/components/heroe/heroe.component.ts" afterDir="false" />
-      <change beforePath="R:/02-spa/src/app/servicios/heroes.service.ts" beforeDir="false" afterPath="R:/02-spa/src/app/servicios/heroes.service.ts" afterDir="false" />
-      <change beforePath="R:/videoclub/src/assets/img/Casablanca.jpg" beforeDir="false" afterPath="R:/videoclub/src/assets/img/Casablanca.jpg" afterDir="false" />
-      <change beforePath="R:/videoclub/src/assets/img/Centauros_del_desierto.jpg" beforeDir="false" />
-      <change beforePath="R:/videoclub/src/assets/img/Ciudadano Kane.jpg" beforeDir="false" afterPath="R:/videoclub/src/assets/img/Ciudadano Kane.jpg" afterDir="false" />
-      <change beforePath="R:/videoclub/src/assets/img/Ordet.jpg" beforeDir="false" afterPath="R:/videoclub/src/assets/img/Ordet.jpg" afterDir="false" />
-      <change beforePath="R:/videoclub/src/assets/img/Senderos de Gloria.jpg" beforeDir="false" afterPath="R:/videoclub/src/assets/img/Senderos de Gloria.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="fc495c8c-73dd-4a54-bfa4-c9d134e5a0c9" name="Default Changelist" comment="" />
     <ignored path="R:/01-hola-mundo/node_modules/" />
     <ignored path="R:/02-spa/node_modules/" />
     <ignored path="R:/02-spa-Abraham/node_modules/" />
@@ -456,7 +440,7 @@
       <workItem from="1620035299996" duration="8553000" />
       <workItem from="1620113106659" duration="4416000" />
       <workItem from="1620121902110" duration="2140000" />
-      <workItem from="1620126083688" duration="796000" />
+      <workItem from="1620126083688" duration="1036000" />
     </task>
     <task id="LOCAL-00001" summary="Prueba header">
       <created>1603882640225</created>
@@ -486,14 +470,29 @@
       <option name="project" value="LOCAL" />
       <updated>1619430938109</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Prueba header3">
+      <created>1620126966299</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620126966299</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Prueba header3">
+      <created>1620127055114</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620127055114</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2936000" />
+    <option name="totallyTimeSpent" value="3176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12243667" />
